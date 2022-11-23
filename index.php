@@ -24,7 +24,8 @@
 <body>
 
 	<header> 
-		<img src="../../media/LunardoLogo.jpg" alt="Lunardo Cinema" height = auto />
+		<img src="../../media/LunardoLogo.jpg" alt="Lunardo Cinema" height = 150px style="
+    object-fit: cover;" />
 	</header>
 
 	<nav>
